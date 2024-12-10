@@ -44,7 +44,7 @@
     { "caliber": "7.92x57mm", "weapons": ["Kar98"] },
     { "caliber": "7.62x54mm", "weapons": ["M1891", "SVD"] },
     { "caliber": "9x39mm", "weapons": ["VSS VZ", "AS Val-VSS"] },
-    { "caliber": "7.62x39mm", "weapons": ["AK-47", "AKM", "AKS-74U"] },
+    { "caliber": "7.62x39mm", "weapons": ["AK-47", "AKM", "RPK", "AKS-74U"] },
     { "caliber": "5.45x39mm", "weapons": ["AKS-74U"] },
     { "caliber": "5.56x45mm", "weapons": ["M16A4", "VHS-2", "VHS-2 CT", "SCAR-L"] }
   ]
