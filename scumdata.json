@@ -29,9 +29,10 @@
     "UMP-45", "VHS 2", "VHS 2 CT", "SCAR- DMR", "SCAR-L", "MAC-10"
   ],
 {
+ {
   "scumammtoweadata": [
     {
-      "ammo": ".22",
+      "capacity": ".22",
       "weapon": [
         "Hunter 85",
         "Improvised Handgun",
@@ -39,7 +40,7 @@
       ]
     },
     {
-      "ammo": ".30-06",
+      "capacity": ".30-06",
       "weapon": [
         "Carbon Hunter",
         "M1 Rifle",
@@ -47,7 +48,7 @@
       ]
     },
     {
-      "ammo": ".308",
+      "capacity": ".308",
       "weapon": [
         "AWP",
         "SCAR-DMR",
@@ -55,14 +56,14 @@
       ]
     },
     {
-      "ammo": ".338",
+      "capacity": ".338",
       "weapon": [
         "AWM",
         "Improvised Rifle"
       ]
     },
     {
-      "ammo": ".357",
+      "capacity": ".357",
       "weapon": [
         "Desert Eagle .357",
         "Improvised Handgun",
@@ -71,27 +72,27 @@
       ]
     },
     {
-      "ammo": ".38",
+      "capacity": ".38",
       "weapon": [
         "Improvised Handgun",
         "Peacekeeper 38"
       ]
     },
     {
-      "ammo": ".44",
+      "capacity": ".44",
       "weapon": [
         "Improvised Handgun",
         "Judge.44"
       ]
     },
     {
-      "ammo": ".45",
+      "capacity": ".45",
       "weapon": [
         "Improvised Handgun"
       ]
     },
     {
-      "ammo": ".45 ACP",
+      "capacity": ".45 ACP",
       "weapon": [
         "Block 21",
         "M1911",
@@ -99,20 +100,20 @@
       ]
     },
     {
-      "ammo": ".50 AE",
+      "capacity": ".50 AE",
       "weapon": [
         "Desert Eagle .50",
         "Improvised Handgun"
       ]
     },
     {
-      "ammo": ".50 BMG",
+      "capacity": ".50 BMG",
       "weapon": [
         "M82A1"
       ]
     },
     {
-      "ammo": "12 Gauge",
+      "capacity": "12 Gauge",
       "weapon": [
         "DT11B",
         "M1887",
@@ -124,14 +125,14 @@
       ]
     },
     {
-      "ammo": "5.45x39mm",
+      "capacity": "5.45x39mm",
       "weapon": [
         "AKS-74U",
         "Improvised Rifle"
       ]
     },
     {
-      "ammo": "5.56x45mm",
+      "capacity": "5.56x45mm",
       "weapon": [
         "M16A4",
         "M249",
@@ -143,7 +144,7 @@
       ]
     },
     {
-      "ammo": "7.62x39mm",
+      "capacity": "7.62x39mm",
       "weapon": [
         "AK-15",
         "AK-47",
@@ -153,7 +154,7 @@
       ]
     },
     {
-      "ammo": "7.62x54mm",
+      "capacity": "7.62x54mm",
       "weapon": [
         "M1891",
         "SVD",
@@ -161,14 +162,14 @@
       ]
     },
     {
-      "ammo": "7.92x57mm",
+      "capacity": "7.92x57mm",
       "weapon": [
         "Kar98",
         "Improvised Rifle"
       ]
     },
     {
-      "ammo": "9mm",
+      "capacity": "9mm",
       "weapon": [
         "HS SF19",
         "HS-9",
@@ -181,7 +182,7 @@
       ]
     },
     {
-      "ammo": "9x39mm",
+      "capacity": "9x39mm",
       "weapon": [
         "AS Val/VSS",
         "Improvised Rifle"
@@ -189,4 +190,3 @@
     }
   ]
 }
-
