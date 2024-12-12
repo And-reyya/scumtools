@@ -28,165 +28,24 @@
     "AKS-74U", "AS Val-VSS", "M16A4", "M249", "MK18", "MP5 K", "MP5 SD", "MP5", "RPK",
     "UMP-45", "VHS 2", "VHS 2 CT", "SCAR- DMR", "SCAR-L", "MAC-10"
   ],
-{
- {
   "scumammtoweadata": [
-    {
-      "capacity": ".22",
-      "weapon": [
-        "Hunter 85",
-        "Improvised Handgun",
-        "Krueger"
-      ]
-    },
-    {
-      "capacity": ".30-06",
-      "weapon": [
-        "Carbon Hunter",
-        "M1 Rifle",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": ".308",
-      "weapon": [
-        "AWP",
-        "SCAR-DMR",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": ".338",
-      "weapon": [
-        "AWM",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": ".357",
-      "weapon": [
-        "Desert Eagle .357",
-        "Improvised Handgun",
-        "Serpent 357",
-        "Viper M357"
-      ]
-    },
-    {
-      "capacity": ".38",
-      "weapon": [
-        "Improvised Handgun",
-        "Peacekeeper 38"
-      ]
-    },
-    {
-      "capacity": ".44",
-      "weapon": [
-        "Improvised Handgun",
-        "Judge.44"
-      ]
-    },
-    {
-      "capacity": ".45",
-      "weapon": [
-        "Improvised Handgun"
-      ]
-    },
-    {
-      "capacity": ".45 ACP",
-      "weapon": [
-        "Block 21",
-        "M1911",
-        "UMP-45"
-      ]
-    },
-    {
-      "capacity": ".50 AE",
-      "weapon": [
-        "Desert Eagle .50",
-        "Improvised Handgun"
-      ]
-    },
-    {
-      "capacity": ".50 BMG",
-      "weapon": [
-        "M82A1"
-      ]
-    },
-    {
-      "capacity": "12 Gauge",
-      "weapon": [
-        "DT11B",
-        "M1887",
-        "M1887 Sawed-off",
-        "SDASS 12M",
-        "TEC01 490",
-        "The Mule DT11B Short",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": "5.45x39mm",
-      "weapon": [
-        "AKS-74U",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": "5.56x45mm",
-      "weapon": [
-        "M16A4",
-        "M249",
-        "MK18",
-        "SCAR-L",
-        "VHS-2",
-        "VHS-2 CT",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": "7.62x39mm",
-      "weapon": [
-        "AK-15",
-        "AK-47",
-        "AKM",
-        "RPK",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": "7.62x54mm",
-      "weapon": [
-        "M1891",
-        "SVD",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": "7.92x57mm",
-      "weapon": [
-        "Kar98",
-        "Improvised Rifle"
-      ]
-    },
-    {
-      "capacity": "9mm",
-      "weapon": [
-        "HS SF19",
-        "HS-9",
-        "Improvised Handgun",
-        "MAC-10",
-        "MP5",
-        "MP5 K",
-        "MP5 SD",
-        "TEC01 M9"
-      ]
-    },
-    {
-      "capacity": "9x39mm",
-      "weapon": [
-        "AS Val/VSS",
-        "Improvised Rifle"
-      ]
-    }
+    { "caliber": "9mm", "weapons": ["HS SF19", "Block 21", "TEC01 M9", "MP5 K", "MP5 SD", "MP5", "MAC-10"] },
+    { "caliber": "44mm", "weapons": ["Judge .44"] },
+    { "caliber": "45mm", "weapons": ["M1911", "UMP-45"] },
+    { "caliber": "357mm", "weapons": ["Serpent 357", "Viper M357", "Deagle .357"] },
+    { "caliber": "38mm", "weapons": ["Peacekeeper 38"] },
+    { "caliber": ".50 AE", "weapons": ["Deagle .50"] },
+    { "caliber": "50 BMG", "weapons": ["M82A1"] },
+    { "caliber": "22mm", "weapons": ["Hunter 85"] },
+    { "caliber": "12 Gauge", "weapons": ["M1887", "DT11B", "The Mule DT11B Short", "SDASS 12M"] },
+    { "caliber": "338mm", "weapons": ["AWM", "AWP"] },
+    { "caliber": "308mm", "weapons": ["SCAR-DMR", "M1 Rifle", "Kar98"] },
+    { "caliber": "30-06mm", "weapons": ["Carbon Hunter"] },
+    { "caliber": "7.92x57mm", "weapons": ["Kar98"] },
+    { "caliber": "7.62x54mm", "weapons": ["M1891", "SVD"] },
+    { "caliber": "9x39mm", "weapons": ["VSS VZ", "AS Val-VSS"] },
+    { "caliber": "7.62x39mm", "weapons": ["AK-47", "AKM", "AKS-74U"] },
+    { "caliber": "5.45x39mm", "weapons": ["AKS-74U"] },
+    { "caliber": "5.56x45mm", "weapons": ["M16A4", "VHS-2", "VHS-2 CT", "SCAR-L"] }
   ]
 }
