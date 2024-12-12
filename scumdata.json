@@ -47,10 +47,7 @@
     { "caliber": "7.62x39mm", "weapons": ["AK-47", "AKM", "AKS-74U"] },
     { "caliber": "5.45x39mm", "weapons": ["AKS-74U"] },
     { "caliber": "5.56x45mm", "weapons": ["M16A4", "VHS-2", "VHS-2 CT", "SCAR-L"] }
-  ]
-}
-
-{
+  ],
   "scumammtoweapdata": [
     {
       "ammo": ".22",
