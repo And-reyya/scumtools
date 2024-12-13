@@ -28,7 +28,7 @@
     "AKS-74U", "AS Val-VSS", "M16A4", "M249", "MK18", "MP5 K", "MP5 SD", "MP5", "RPK",
     "UMP-45", "VHS 2", "VHS 2 CT", "SCAR- DMR", "SCAR-L", "MAC-10"
   ],
-  "scumammtoweadata": [
+  "scumAmmoData": [
     { "caliber": "9mm", "weapons": ["HS SF19", "Block 21", "TEC01 M9", "MP5 K", "MP5 SD", "MP5", "MAC-10"] },
     { "caliber": "44mm", "weapons": ["Judge .44"] },
     { "caliber": "45mm", "weapons": ["M1911", "UMP-45"] },
