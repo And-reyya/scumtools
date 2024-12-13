@@ -1,5 +1,5 @@
 {
-  "scumpontamdata": [
+  "scumpont": [
     { "standard": "9mm", "variations": [".9", "9", "9mm"] },
     { "standard": "44mm", "variations": [".44", "44", "44mm"] },
     { "standard": "45mm", "variations": [".45", "45", "45mm"] },
@@ -19,7 +19,7 @@
     { "standard": "5.45x39mm", "variations": [".5.45x39", "5.45x39", "5.45x39mm"] },
     { "standard": "5.56x45mm", "variations": [".5.56x45", "5.56x45", "5.56x45mm"] }
   ],
-  "scumweadata": [
+  "scumbela": [
     "HS SF19", "Block 21", "HS-9", "TEC01 M9", "M1911", "Serpent 357", "Peacekeeper 38",
     "Viper M357", "Krueger", "Improvised Handgun", "Improvised Rifle", "Deagle .50",
     "Deagle .357", "Judge .44", "The Mule DT11B Short", "DT11B", "M1887 Saved off",
@@ -28,7 +28,7 @@
     "AKS-74U", "AS Val-VSS", "M16A4", "M249", "MK18", "MP5 K", "MP5 SD", "MP5", "RPK",
     "UMP-45", "VHS 2", "VHS 2 CT", "SCAR- DMR", "SCAR-L", "MAC-10"
   ],
-  "scumammtoweadata": [
+  "scumandi": [
     { "caliber": "9mm", "weapons": ["HS SF19", "Block 21", "TEC01 M9", "MP5 K", "MP5 SD", "MP5", "MAC-10"] },
     { "caliber": "44mm", "weapons": ["Judge .44"] },
     { "caliber": "45mm", "weapons": ["M1911", "UMP-45"] },
