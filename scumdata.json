@@ -19,6 +19,11 @@
     { "standard": "5.45x39mm", "variations": [".5.45x39", "5.45x39", "5.45x39mm"] },
     { "standard": "5.56x45mm", "variations": [".5.56x45", "5.56x45", "5.56x45mm"] }
   ],
+"scummarika": {
+  "WEAPON": [],
+  "MAGAZINE": []
+}
+],
   "scumbela": [
     "HS SF19", "Block 21", "HS-9", "TEC01 M9", "M1911", "Serpent 357", "Peacekeeper 38",
     "Viper M357", "Krueger", "Improvised Handgun", "Improvised Rifle", "Deagle .50",
