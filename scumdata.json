@@ -72,5 +72,4 @@
     { "ammo": "7.62x39mm", "weapon": ["AK-15", "AK-47", "AKM", "Improvised Rifle"] },
     { "ammo": "7.62x54mm", "weapon": ["M1891", "SVD", "Improvised Rifle"] },
 ]
-  ]
 }
