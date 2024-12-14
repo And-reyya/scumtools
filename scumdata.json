@@ -53,29 +53,24 @@
     { "caliber": "5.56x45mm", "weapons": ["M16A4", "VHS-2", "VHS-2 CT", "SCAR-L"] }
   ],
   "scumjancsi": [
-    { "ammo": ".22mm", "weapon": ["Hunter 85", "Improvised Handgun", "Krueger"] },
-    { "ammo": ".30-06mm", "weapon": ["Carbon Hunter", "M1 Rifle", "Improvised Rifle"] },
-    { "ammo": ".308mm", "weapon": ["AWP", "SCAR-DMR", "Improvised Rifle"] },
-    { "ammo": ".338mm", "weapon": ["AWM", "Improvised Rifle"] },
-    { "ammo": ".357mm", "weapon": ["Desert Eagle .357", "Improvised Handgun", "Serpent 357", "Viper M357"] },
-    { "ammo": ".38mm", "weapon": ["Improvised Handgun", "Peacekeeper 38"] },
-    { "ammo": ".44mm", "weapon": ["Improvised Handgun", "Judge .44"] },
-    { "ammo": ".45mm", "weapon": ["Improvised Handgun"] },
-    { "ammo": ".45 ACP", "weapon": ["Block 21", "M1911", "UMP-45"] },
+    { "ammo": ".22", "weapon": ["Hunter 85", "Improvised Handgun", "Krueger"] },
+    { "ammo": ".30-06", "weapon": ["Carbon Hunter", "M1 Rifle", "Improvised Rifle"] },
+    { "ammo": ".308", "weapon": ["AWP", "SCAR-DMR", "Improvised Rifle"] },
+    { "ammo": ".338", "weapon": ["AWM", "Improvised Rifle"] },
+    { "ammo": ".357", "weapon": ["Desert Eagle .357", "Improvised Handgun", "Serpent 357", "Viper M357"] },
+    { "ammo": ".38", "weapon": ["Improvised Handgun", "Peacekeeper 38"] },
+    { "ammo": ".44", "weapon": ["Improvised Handgun", "Judge .44"] },
+    { "ammo": ".45 ACP", "weapon": ["Block 21", "M1911", "Improvised Handgun", "UMP-45"] },
     { "ammo": ".50 AE", "weapon": ["Desert Eagle .50", "Improvised Handgun"] },
     { "ammo": ".50 BMG", "weapon": ["M82A1"] },
-    { "ammo": ".12 Gauge", "weapon": ["DT11B", "M1887", "M1887 Sawed-off", "SDASS 12M", "TEC01 490", "The Mule DT11B Short", "Improvised Rifle"] },
-    { "ammo": ".5.45x39mm", "weapon": ["AKS-74U", "Improvised Rifle"] },
-    { "ammo": ".5.56x45mm", "weapon": ["M16A4", "M249", "MK18", "SCAR-L", "VHS-2", "VHS-2 CT", "Improvised Rifle"] },
-    { "ammo": ".7.62x39mm", "weapon": ["AK-15", "AK-47", "AKM", "Improvised Rifle"] },
-    { "ammo": ".7.62x54mm", "weapon": ["M1891", "SVD", "Improvised Rifle"] },
-    { "ammo": ".9mm", "weapon": ["HS SF19", "Block 21", "TEC01 M9", "MP5 K", "MP5 SD", "MP5", "MAC-10"] },
-    { "ammo": ".44mm", "weapon": ["Judge .44"] },
-    { "ammo": ".45 ACP", "weapon": ["M1911", "UMP-45"] },
-    { "ammo": ".357mm", "weapon": ["Serpent 357", "Viper M357", "Deagle .357"] },
-    { "ammo": ".38mm", "weapon": ["Peacekeeper 38"] },
-    { "ammo": ".50 AE", "weapon": ["Deagle .50"] }
-    { "ammo": ".9x39mm", "weapon": ["VSS VZ", "AS Val-VSS"] }
-    { "ammo": ".7.92x57mm", "weapon": ["Kar98"] }
-  ]
+    { "ammo": "12 Gauge", "weapon": ["DT11B", "M1887", "M1887 Sawed-off", "SDASS 12M", "TEC01 490", "The Mule DT11B Short", "Improvised Rifle"] },
+    { "ammo": "5.45x39mm", "weapon": ["AKS-74U", "Improvised Rifle"] },
+    { "ammo": "5.56x45mm", "weapon": ["M16A4", "M249", "MK18", "SCAR-L", "VHS-2", "VHS-2 CT", "Improvised Rifle"] },
+    { "ammo": "7.62x39mm", "weapon": ["AK-15", "AK-47", "AKM", "RPK", "Improvised Rifle"] },
+    { "ammo": "7.62x54mm", "weapon": ["M1891", "SVD", "Improvised Rifle"] },
+    { "ammo": "7.92x57mm", "weapon": ["Kar98", "Improvised Rifle"] },
+    { "ammo": "9mm", "weapon": ["HS SF19", "HS-9", "Improvised Handgun", "MAC-10", "MP5", "MP5 K", "MP5 SD", "TEC01 M9"] },
+    { "ammo": "9x39mm", "weapon": ["AS Val/VSS", "Improvised Rifle"] }
+]
+
 }
