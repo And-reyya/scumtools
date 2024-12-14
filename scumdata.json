@@ -75,5 +75,7 @@
     { "ammo": ".357mm", "weapon": ["Serpent 357", "Viper M357", "Deagle .357"] },
     { "ammo": ".38mm", "weapon": ["Peacekeeper 38"] },
     { "ammo": ".50 AE", "weapon": ["Deagle .50"] }
+    { "ammo": ".9x39mm", "weapon": ["VSS VZ", "AS Val-VSS"] }
+    { "ammo": ".7.92x57mm", "weapon": ["Kar98"] }
   ]
 }
