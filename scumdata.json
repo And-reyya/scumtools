@@ -53,7 +53,6 @@
     { "caliber": "5.56x45mm", "weapons": ["M16A4", "VHS-2", "VHS-2 CT", "SCAR-L"] }
   ],
   "scumjancsi": [
-"scumjancsi": [
     { "ammo": "9mm", "weapon": ["HS SF19", "Block 21", "TEC01 M9", "MP5 K", "MP5 SD", "MP5", "MAC-10"] },
     { "ammo": ".22", "weapon": ["Hunter 85", "Improvised Handgun", "Krueger"] },
     { "ammo": ".30-06", "weapon": ["Carbon Hunter", "M1 Rifle", "Improvised Rifle"] },
