@@ -1,23 +1,23 @@
 {
-  "scumpont": [
-    { "standard": "9mm", "variations": [".9", "9", "9mm"] },
-    { "standard": "44mm", "variations": [".44", "44", "44mm"] },
-    { "standard": "45 ACP", "variations": [".45", "45", "45mm"] },
-    { "standard": "357mm", "variations": [".357", "357", "357mm"] },
-    { "standard": "38mm", "variations": [".38", "38", "38mm"] },
-    { "standard": "50 AE", "variations": [".50AE", "50AE", "50 AE"] },
-    { "standard": "50 BMG", "variations": [".50BMG", "50BMG", "50 BMG"] },
-    { "standard": "22mm", "variations": [".22", "22", "22mm"] },
-    { "standard": "12 Gauge", "variations": [".12", "12", "12 Gauge"] },
-    { "standard": "338mm", "variations": [".338", "338", "338mm"] },
-    { "standard": "308mm", "variations": [".308", "308", "308mm"] },
-    { "standard": "30-06mm", "variations": [".30-06", "30-06", "30-06mm"] },
-    { "standard": "7.92x57mm", "variations": [".7.92x57", "7.92x57", "7.92x57mm"] },
-    { "standard": "7.62x54mm", "variations": [".7.62x54", "7.62x54", "7.62x54mm"] },
-    { "standard": "9x39mm", "variations": [".9x39", "9x39", "9x39mm"] },
-    { "standard": "7.62x39mm", "variations": [".7.62x39", "7.62x39", "7.62x39mm"] },
-    { "standard": "5.45x39mm", "variations": [".5.45x39", "5.45x39", "5.45x39mm"] },
-    { "standard": "5.56x45mm", "variations": [".5.56x45", "5.56x45", "5.56x45mm"] }
+"scumpont": [
+    { "standard": "9mm", "variations": [".9", "9mm"] },
+    { "standard": "44mm", "variations": [".44", "44mm"] },
+    { "standard": "45 ACP", "variations": [".45", "45 ACP"] },
+    { "standard": "357mm", "variations": [".357", "357mm"] },
+    { "standard": "38mm", "variations": [".38", "38mm"] },
+    { "standard": "50 AE", "variations": [".50 AE", "50 AE"] },
+    { "standard": "50 BMG", "variations": [".50 BMG", "50 BMG"] },
+    { "standard": "22mm", "variations": [".22", "22mm"] },
+    { "standard": "12 Gauge", "variations": [".12", "12 Gauge"] },
+    { "standard": "338mm", "variations": [".338", "338mm"] },
+    { "standard": "308mm", "variations": [".308", "308mm"] },
+    { "standard": "30-06mm", "variations": [".30-06", "30-06mm"] },
+    { "standard": "7.92x57mm", "variations": [".7.92x57", "7.92x57mm"] },
+    { "standard": "7.62x54mm", "variations": [".7.62x54", "7.62x54mm"] },
+    { "standard": "9x39mm", "variations": [".9x39", "9x39mm"] },
+    { "standard": "7.62x39mm", "variations": [".7.62x39", "7.62x39mm"] },
+    { "standard": "5.45x39mm", "variations": [".5.45x39", "5.45x39mm"] },
+    { "standard": "5.56x45mm", "variations": [".5.56x45", "5.56x45mm"] }
   ],
   "scummarika": {
     "WEAPON": [],
@@ -72,5 +72,4 @@
     { "ammo": "9mm", "weapon": ["HS SF19", "HS-9", "Improvised Handgun", "MAC-10", "MP5", "MP5 K", "MP5 SD", "TEC01 M9"] },
     { "ammo": "9x39mm", "weapon": ["AS Val", "VSS", "Improvised Rifle"] }
 ]
-
 }
