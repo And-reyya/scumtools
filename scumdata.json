@@ -52,7 +52,7 @@
     { "caliber": "5.45x39mm", "weapons": ["AKS-74U"] },
     { "caliber": "5.56x45mm", "weapons": ["M16A4", "VHS-2", "VHS-2 CT", "SCAR-L"] }
   ],
-  "scumjancsi": [
+"scumjancsi": [
     { "ammo": ".22", "weapon": ["Hunter 85", "Improvised Handgun", "Krueger"] },
     { "ammo": ".30-06", "weapon": ["Carbon Hunter", "M1 Rifle", "Improvised Rifle"] },
     { "ammo": ".308", "weapon": ["AWP", "SCAR-DMR", "Improvised Rifle"] },
