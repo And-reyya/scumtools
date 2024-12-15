@@ -72,5 +72,4 @@
     { "ammo": "9mm", "weapon": ["HS SF19", "HS-9", "Improvised Handgun", "MAC-10", "MP5", "MP5 K", "MP5 SD", "TEC01 M9"] },
     { "ammo": "9x39mm", "weapon": ["AS Val/VSS", "Improvised Rifle"] }
 ]
-
 }
