@@ -23,6 +23,16 @@
     "WEAPON": [],
     "MAGAZINE": []
   },
+  "scumdalma": {
+    "AMMO": [],
+    "MAGAZINE": [],
+    "SIGHT": [],
+    "SCOPE": [],
+    "RAIL": [],
+    "FLASHLIGHT": [],
+    "SUPRESSOR": [],
+    "BAYONETT": []
+  },
   "scummargit": [
     { "weapon": "HS SF19", "magazine": "HS SF19", "capacity": 19 },
     { "weapon": "Block 21", "magazine": "Block 21", "capacity": 13 },
