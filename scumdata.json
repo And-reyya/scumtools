@@ -101,7 +101,6 @@
   { "ammo": "7.62x39mm", "magazine": ["AK-47 (30)", "AKM (30)", "AKS-74U (30)", "RPK (75)"] },
   { "ammo": "5.45x39mm", "magazine": ["AKS-74U (30)"] },
   { "ammo": "5.56x45mm", "magazine": ["M16A4 (30)", "VHS-2 (30)", "Improvised Rifle (1)",  "VHS-2 CT (30)", "SCAR-L (30)"] },
-
   ],
   "scumjancsi": [
     { "ammo": "22mm", "weapon": ["Hunter 85", "Improvised Handgun", "Krueger"] },
