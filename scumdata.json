@@ -143,8 +143,8 @@
     { "weapon": "M249", "ammo": ["5.56x45mm"] },
     { "weapon": "MK18", "ammo": ["5.56x45mm"] },
     { "weapon": "SCAR-L", "ammo": ["5.56x45mm"] },
-    { "weapon": "VHS-2", "ammo": ["5.56x45mm"] },
-    { "weapon": "VHS-2 CT", "ammo": ["5.56x45mm"] },
+    { "weapon": "VHS 2", "ammo": ["5.56x45mm"] },
+    { "weapon": "VHS 2 CT", "ammo": ["5.56x45mm"] },
     { "weapon": "AK-15", "ammo": ["7.62x39mm"] },
     { "weapon": "AK-47", "ammo": ["7.62x39mm"] },
     { "weapon": "AKM", "ammo": ["7.62x39mm"] },
@@ -175,7 +175,7 @@
     { "ammo": "50 BMG", "weapon": ["M82A1"] },
     { "ammo": "12 Gauge", "weapon": ["DT11B", "M1887", "M1887 Sawed-off", "SDASS 12M", "TEC01 490", "The Mule DT11B Short", "Improvised Rifle"] },
     { "ammo": "5.45x39mm", "weapon": ["AKS-74U", "Improvised Rifle"] },
-    { "ammo": "5.56x45mm", "weapon": ["M16A4", "M249", "MK18", "SCAR-L", "VHS-2", "VHS-2 CT", "Improvised Rifle"] },
+    { "ammo": "5.56x45mm", "weapon": ["M16A4", "M249", "MK18", "SCAR-L", "VHS 2", "VHS 2 CT", "Improvised Rifle"] },
     { "ammo": "7.62x39mm", "weapon": ["AK-15", "AK-47", "AKM", "RPK", "Improvised Rifle"] },
     { "ammo": "7.62x54mm", "weapon": ["M1891", "SVD", "Improvised Rifle"] },
     { "ammo": "7.92x57mm", "weapon": ["Kar98", "Improvised Rifle"] },
@@ -200,6 +200,6 @@
     { "caliber": "9x39mm", "weapons": ["VSS VZ", "AS Val-VSS"] },
     { "caliber": "7.62x39mm", "weapons": ["AK-47", "AKM", "AKS-74U"] },
     { "caliber": "5.45x39mm", "weapons": ["AKS-74U"] },
-    { "caliber": "5.56x45mm", "weapons": ["M16A4", "VHS-2", "VHS-2 CT", "SCAR-L"] }
+    { "caliber": "5.56x45mm", "weapons": ["M16A4", "VHS 2", "VHS 2 CT", "SCAR-L"] }
   ]
 }
