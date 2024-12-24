@@ -110,7 +110,7 @@
   { "ammo": "9x39mm", "magazine": ["VSS VZ (30)", "AS Val-VSS (30)", "Improvised Rifle (1)"] },
   { "ammo": "7.62x39mm", "magazine": ["AK-47 (30)", "AK-15 (30)", "AKM (30)", "RPK (75)", "Improvised Rifle (1)"] },
   { "ammo": "5.45x39mm", "magazine": ["AKS-74U (30)", "Improvised Rifle (1)"] },
-  { "ammo": "5.56x45mm", "magazine": ["M16 (30)", "M249 (200)", "VHS-2 (30)", "Improvised Rifle (1)", "VHS-2 CT (30)", "SCAR-L (30)"] }
+  { "ammo": "5.56x45mm", "magazine": ["M16 (30)", "M249 (200)", "VHS 2 (30)", "Improvised Rifle (1)", "VHS 2 CT (30)", "SCAR-L (30)"] }
  ],
 "scumorsi": [
     { "weapon": "Hunter 85", "ammo": ["22mm"] },
