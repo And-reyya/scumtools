@@ -63,7 +63,7 @@
     { "weapon": "M1891", "magazine": "none", "capacity": 5 },
     { "weapon": "M82A1", "magazine": "M82A1", "capacity": 10 },
     { "weapon": "SVD", "magazine": "SVD", "capacity": 10 },
-    { "weapon": "VSS VZ", "magazine": "none", "capacity": 30 },
+    { "weapon": "VSS VZ", "magazine": "AS Val-VSS", "capacity": 30 },
     { "weapon": "AK-15", "magazine": "AK-15", "capacity": 30 },
     { "weapon": "AK-47", "magazine": "AK-47, RPK", "capacity": "30, 75" },
     { "weapon": "AKM", "magazine": "AKM, RPK", "capacity": "30, 75" },
@@ -159,8 +159,8 @@
     { "weapon": "MP5 K", "ammo": ["9mm"] },
     { "weapon": "MP5 SD", "ammo": ["9mm"] },
     { "weapon": "TEC01 M9", "ammo": ["9mm"] },
-    { "weapon": "AS Val", "ammo": ["9x39mm"] },
-    { "weapon": "VSS", "ammo": ["9x39mm"] }
+    { "weapon": "AS Val-VSS", "ammo": ["9x39mm"] },
+    { "weapon": "VSS VZ", "ammo": ["9x39mm"] }
 ],
   "scumjancsi": [
     { "ammo": "22mm", "weapon": ["Hunter 85", "Improvised Handgun", "Krueger"] },
@@ -180,7 +180,7 @@
     { "ammo": "7.62x54mm", "weapon": ["M1891", "SVD", "Improvised Rifle"] },
     { "ammo": "7.92x57mm", "weapon": ["Kar98", "Improvised Rifle"] },
     { "ammo": "9mm", "weapon": ["HS SF19", "HS-9", "Improvised Handgun", "MAC-10", "MP5", "MP5 K", "MP5 SD", "TEC01 M9"] },
-    { "ammo": "9x39mm", "weapon": ["AS Val", "VSS", "Improvised Rifle"] }
+    { "ammo": "9x39mm", "weapon": ["AS Val-VSS", "VSS VZ", "Improvised Rifle"] }
   ],
   "scumandi": [
     { "caliber": "9mm", "weapons": ["HS SF19", "Block 21", "TEC01 M9", "MP5 K", "MP5 SD", "MP5", "MAC-10"] },
